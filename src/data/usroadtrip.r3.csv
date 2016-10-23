@@ -1,0 +1,39 @@
+Location name,State,Days At Location,Est. date of arrival,story,stopnum,day,photo essay,audio story,need interviews?,interview notes,notes,civil rights history?,food?,trip,lat,lon
+New York City,NY,1,1/19/2017,Preparing For The Journey Ahead,0,0,,yes,,,,,,1,40.712784,-74.005941
+"Washington, DC",MD,1,1/20/2017,"Inauguration Day: Reactions Of Protesters and Celebrators In Washington, DC",1,1,yes,yes,yes,vox pop inauguration,,yes,,1,38.907192,-77.036871
+Raleigh,NC,0,1/21/2017,,2,2,,,,,get some BBQ,,,1,35.77959,-78.638179
+Fayetteville,NC,1,1/21/2017,Fayetteville's History of Protest: Civil Rights and Anti-Vietnam,3,2,,yes,,,"Near Fort Bragg, what does military town think of new president?",yes,,1,35.052664,-78.878358
+Savannah,GA,2,1/22/2017,My Family's History in Savannah,4,3,,yes,yes,GA family members,interview family both here and in GA about history,,,1,32.083541,-81.099834
+Montgomery,AL,0,1/24/2017,What Historians Of Civil Rights Think Of Black Lives Matter (And our place in history),5,5,,yes,yes,Civil rights historians,Civil Rights Memorial,yes,,1,32.366805,-86.299969
+Selma,AL,1,1/24/2017,The History Of Civil Disobedience And Protest (And Highway Shutdowns),6,5,,yes,,,,yes,,1,32.407359,-87.021101
+De Soto National Forest,MS,1,1/25/2017,Photo Essay,7,6,yes,yes,,,,,,1,31.066944,-88.983333
+New Orleans,LA,1,1/26/2017,,8,7,yes,yes,,,"history of krewes & minstrelsy, jazz, etc- trace history of racism and neglect, katrina & george w bush, Kanye's katrina comment helped launch him to fame",yes,,1,29.951066,-90.071532
+Sabine National Forest,TX,1,1/27/2017,Photo Essay,9,8,yes,,,,,,,1,31.443895,-93.770027
+Dallas,TX,1,1/28/2017,,10,9,,yes,yes,Police / BLM representatives / Vox pop,reflect on dallas police shooting,,,1,32.776664,-96.796988
+Amarillo,TX,1,1/29/2017,,11,10,,,,,,,,1,35.221997,-101.831297
+Colorado Springs,CO,2,1/30/2017,"Colorado ""High LIfe"" Marijuana Tours- What Does The Future Of Weed Tourism Hold? How Are States Competing? ",12,11,yes,yes,yes,People in marijuana business,,,,1,38.833882,-104.821363
+Denver,CO,0,2/1/2017,How Is Marijuana Tax Money Being Used?,13,13,,,,Gov representatives / marijuana lobbyists / representatives,Sensory deprevation tank?,,,1,39.739236,-104.990251
+Boulder,CO,2,2/1/2017,,14,13,yes,,,,,,,1,40.014986,-105.270546
+Grand Mesa,CO,1,2/3/2017,Photo Essay,15,15,yes,,,,,,,1,39.040258,-107.949789
+Bryce,UT,3,2/4/2017,Photo Essay,16,16,yes,,,,,,,1,37.672846,-112.157256
+Zion National Park,UT,3,2/7/2017,Photo Essay,17,19,yes,yes,,,,,,1,37.298202,-113.0263
+Las Vegas,NV,3,2/10/2017,,18,22,yes,yes,,,"Las Vegas' psychedelic history via Hunter S Thompson, helicopter to Grand Canyon?",,,1,36.169941,-115.13983
+Mojave National Preserve,CA,1,2/13/2017,Photo Essay,19,25,yes,,,,,,,1,35.010991,-115.473355
+Los Angeles,CA,2,2/14/2017,"A Love Note To Californication, A Show That Raised Me // Piece on Soulection",20,26,yes,yes,,,"Go to venice beach / californication spots- check out local art / music scene, soulection",,,1,34.052234,-118.243685
+Yosemite National Park,CA,3,2/16/2017,Photo Essay,21,28,yes,,,,,,,1,37.865101,-119.538329
+San Francisco,CA,5,2/19/2017,Tech's Role In Civil Rights and Freedom,22,31,,yes,yes,,,,,1,37.774929,-122.419416
+Mendocino National Forest,CA,1,2/24/2017,Photo Essay,23,36,yes,,,,,,,2,39.652974,-122.949556
+Redwoods National Forest,CA,1,2/25/2017,Photo Essay,24,37,yes,,,,,,,2,41.213179,-124.004628
+Eugene,OR,0,2/26/2017,"""The Anarchist Capital of the United States"" - Eugene's History Of Protest",25,38,,,yes,,History of ELF / radical protest tactics? ,,,2,44.052069,-123.086754
+Portland,OR,2,2/26/2017,,26,38,,,,,,,,2,45.523062,-122.676482
+Olympia,WA,1,2/28/2017,,27,40,yes,,,,,,,2,47.037874,-122.900695
+Mt Hood National Forest,OR,1,3/1/2017,Photo Essay,28,41,yes,,,,,,,2,45.330043,-121.708919
+Grand Teton National Park,WY,2,3/2/2017,Photo Essay,29,42,yes,,,,,,,2,43.790428,-110.681763
+Yellowstone National Park,WY,2,3/4/2017,Photo Essay,30,44,yes,,,,,,,2,44.427968,-110.588454
+Wind River Reservation,WY,1,3/6/2017,,31,46,,,,,,yes,,2,43.283291,-108.83401
+Black Hills,SD,3,3/7/2017,Photo Essay,32,47,yes,,,,,,,2,43.993948,-103.771769
+Chicago,IL,1,3/10/2017,,33,50,yes,,,,,,,2,41.878114,-87.629798
+Detroit,MI,2,3/11/2017,,34,51,yes,,,,,,,2,42.331427,-83.045754
+Toronoto,ON,1,3/13/2017,Toronto's Rap Culture And Drake's Enormous Influence,35,53,,,yes,People in Toronto rap scene,Toronto's rap culture and Drake's enormous influence,,,2,43.653226,-79.383184
+Niagra Falls,NY,1,3/14/2017,Photo Essay,36,54,yes,,,,,,,2,43.096214,-79.037739
+New York City,NY,0,3/15/2017,,37,55,,,,,,,,2,40.712784,-74.005941
