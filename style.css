@@ -70,7 +70,7 @@ body{-webkit-tap-highlight-color:#d7d7d7;font-family:'Whitney SSm A','Whitney SS
 #map2{width:224px;height:124px;right:22px;top:22px}
 .mapboxgl-ctrl.mapboxgl-ctrl-attrib{display:none!important}
 #navigation{padding:6px}
-button{background-color:transparent;font-size:18px;border-radius:3px;margin:2px;focus:none;border:1px solid #ccc}
+button{background-color:transparent;font-size:18px;border-radius:3px;margin:0;focus:none;border:1px solid #ccc}
 #autoplay-button{padding:2px;font-size:12px}
 .autoplay-active{background-color:#9ae431}
 #stoplist{max-height:520px;overflow:auto;line-height:1.5em}
