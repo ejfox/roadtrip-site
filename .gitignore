@@ -7,3 +7,4 @@ src/js/lib/[^.]*
 options.js
 *.log
 .awspublish-*
+.publish/
